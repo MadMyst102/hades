@@ -1,0 +1,62 @@
+[
+  {
+    "weapon": "Shield of Chaos",
+    "aspect": "Zagreus",
+    "gods": [
+      "Aphrodite"
+    ],
+    "boons": [],
+    "build_score": 13,
+    "victory": false,
+    "boss_reached": "Tartarus",
+    "heat_level": 0,
+    "timestamp": "2025-10-02T18:18:48.825848",
+    "run_number": 1,
+    "date": "2025-10-02 18:18"
+  },
+  {
+    "weapon": "Shield of Chaos",
+    "aspect": "Zagreus",
+    "gods": [
+      "Hermes",
+      "Aphrodite"
+    ],
+    "boons": [],
+    "build_score": 16,
+    "victory": false,
+    "boss_reached": "Tartarus",
+    "heat_level": 0,
+    "timestamp": "2025-10-02T18:19:01.465729",
+    "run_number": 2,
+    "date": "2025-10-02 18:19"
+  },
+  {
+    "weapon": "Shield of Chaos",
+    "aspect": "Zagreus",
+    "gods": [
+      "Aphrodite"
+    ],
+    "boons": [
+      "Heartbreak Strike"
+    ],
+    "build_score": 22,
+    "victory": false,
+    "boss_reached": "Tartarus",
+    "heat_level": 0,
+    "room_progression": {
+      "rooms": [],
+      "current_room_number": 0,
+      "current_region": "Tartarus",
+      "run_active": false,
+      "run_start_time": "2025-10-02T18:40:14.162619",
+      "run_end_time": "2025-10-02T18:40:25.751205",
+      "total_rooms": 0,
+      "boon_timeline": [],
+      "god_encounter_order": [],
+      "room_summary": {}
+    },
+    "timestamp": "2025-10-02T18:40:25.751262",
+    "run_number": 3,
+    "date": "2025-10-02 18:40"
+  }
+]
